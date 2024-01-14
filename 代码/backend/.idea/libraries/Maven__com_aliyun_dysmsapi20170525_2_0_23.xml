@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.aliyun:dysmsapi20170525:2.0.23">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../repository_new/com/aliyun/dysmsapi20170525/2.0.23/dysmsapi20170525-2.0.23.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../repository_new/com/aliyun/dysmsapi20170525/2.0.23/dysmsapi20170525-2.0.23-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../repository_new/com/aliyun/dysmsapi20170525/2.0.23/dysmsapi20170525-2.0.23-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
