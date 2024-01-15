@@ -1,6 +1,5 @@
 package com.fgbg.demo.controller;
 
-import com.fgbg.demo.common.R;
 import org.apache.commons.io.FileUtils;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.MediaType;

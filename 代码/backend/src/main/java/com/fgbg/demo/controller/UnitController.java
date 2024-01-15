@@ -1,6 +1,6 @@
 package com.fgbg.demo.controller;
 
-import com.fgbg.demo.common.R;
+import com.fgbg.common.utils.R;
 import com.fgbg.demo.entity.TbUnit;
 import com.fgbg.demo.service.TbUnitService;
 import com.fgbg.demo.vo.LabelVo;
