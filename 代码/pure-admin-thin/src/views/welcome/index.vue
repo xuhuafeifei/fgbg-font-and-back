@@ -60,4 +60,34 @@ const addOrUpdate = data => {
   </el-table>
   <!--引用方法-->
   <tree-add-or-update v-if="dialogVisible" ref="treeAddOrUpdateRef" />
+  <!-- <div class="flex justify-center relative top-1/3"> -->
+  <!-- This is an example component -->
+  <div class="relative gap-4 p-4 mb-8 rounded-lg bg-white shadow-lg">
+    <div class="relative flex gap-4">
+      <img
+        src="https://icons.iconarchive.com/icons/diversity-avatars/avatars/256/charlie-chaplin-icon.png"
+        class="relative rounded-lg -top-8 -mb-4 bg-white border h-20 w-20"
+        alt=""
+        loading="lazy"
+      />
+      <div class="flex flex-col w-full">
+        <div class="flex flex-row justify-between">
+          <p
+            class="relative text-xl whitespace-nowrap truncate overflow-hidden"
+          >
+            COMMENTOR
+          </p>
+          <a class="text-gray-500 text-xl" href="#"
+            ><i class="fa-solid fa-trash"
+          /></a>
+        </div>
+        <p class="text-gray-400 text-sm">20 April 2022, at 14:88 PM</p>
+      </div>
+    </div>
+    <p class="-mt-4 text-gray-500">
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. <br />Maxime
+      quisquam vero adipisci beatae voluptas dolor ame.
+    </p>
+  </div>
+  <!-- </div> -->
 </template>

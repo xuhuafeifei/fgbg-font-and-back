@@ -6,7 +6,7 @@
         <option name="generateConfig">
           <GenerateConfig>
             <option name="annotationType" value="MYBATIS_PLUS3" />
-            <option name="basePackage" value="generator" />
+            <option name="basePackage" value="com.fgbg.demo" />
             <option name="basePath" value="src/main/java" />
             <option name="encoding" value="UTF-8" />
             <option name="extraClassSuffix" value="" />
@@ -62,8 +62,8 @@
             <option name="tableUIInfoList">
               <list>
                 <TableUIInfo>
-                  <option name="className" value="TbUnit" />
-                  <option name="tableName" value="tb_unit" />
+                  <option name="className" value="Communicate" />
+                  <option name="tableName" value="communicate" />
                 </TableUIInfo>
               </list>
             </option>
